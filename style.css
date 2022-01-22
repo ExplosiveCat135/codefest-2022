@@ -25,6 +25,7 @@ footer {
     width: auto;
     height: 40px;
     border-radius: 10px;
+    text-align: center;
 }
 
 #discord_bot_link {
