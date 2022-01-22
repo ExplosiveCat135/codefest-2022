@@ -1,7 +1,9 @@
 
 
 body {
-  background-image: url("cooling_towers.jpeg");
+  background-image: url("nuclear-fission.jpeg");
+  background-repeat: no-repeat;
+  background-size:cover;
 }
 
 header {
@@ -9,6 +11,8 @@ header {
   background-color: aliceblue;
   text-align: center;
   border-radius: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 main {
@@ -17,7 +21,10 @@ main {
     border-radius: 10px;
     width: auto;
     margin: 20px;
-    
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 footer {
@@ -26,6 +33,9 @@ footer {
     height: 40px;
     border-radius: 10px;
     text-align: center;
+    margin: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 #discord_bot_link {
