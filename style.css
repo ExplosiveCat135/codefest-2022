@@ -47,4 +47,6 @@ footer {
 
 }
 
-#list
+#list {
+  text-align: left;
+}
