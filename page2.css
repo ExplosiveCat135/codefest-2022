@@ -1,5 +1,5 @@
 body {
-  background-image: url("nuclear-fission.jpeg");
+  background-image: url("cooling_towers.jpeg");
   background-repeat: no-repeat;
   background-size:cover;
 }
@@ -11,4 +11,27 @@ header {
   border-radius: 10px;
   margin-left: 200px;
   margin-right: 200px;
+}
+
+main {
+    background-color: aliceblue;
+    text-align: left;
+    border-radius: 10px;
+    width: auto;
+    margin: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+footer {
+    background-color: aliceblue;
+    width: auto;
+    height: 40px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
