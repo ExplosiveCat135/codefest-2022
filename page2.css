@@ -1,0 +1,14 @@
+body {
+  background-image: url("nuclear-fission.jpeg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+header {
+  width: auto;
+  background-color: aliceblue;
+  text-align: center;
+  border-radius: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
