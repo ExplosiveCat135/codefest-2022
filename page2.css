@@ -35,3 +35,7 @@ footer {
     margin-left: 200px;
     margin-right: 200px;
 }
+
+ul {
+  text-align: left;
+}
